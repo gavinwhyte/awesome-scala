@@ -1,6 +1,8 @@
 Awesome Scala
 =============
 
+[![Join the chat at https://gitter.im/gavinwhyte/awesome-scala](https://badges.gitter.im/gavinwhyte/awesome-scala.svg)](https://gitter.im/gavinwhyte/awesome-scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated list of awesome Scala frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Scala](#awesome-scala)
